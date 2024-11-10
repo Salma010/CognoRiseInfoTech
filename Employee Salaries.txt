@@ -1,0 +1,15 @@
+For this project, I analyzed employee salaries across different job roles, experience levels, employment types, and company sizes using Power BI. This dashboard showcases key insights into salary trends across various factors and locations.
+
+🔍 Key Insights from the Analysis:
+🔹 Salaries by Job Role: The analysis shows average salaries for different job titles, such as Data Analytics Lead, Principal Data Engineer, and Financial Data Analyst, highlighting salary differences across roles.
+🔹 Experience Levels: Salaries are analyzed based on experience, showing how pay varies from entry-level to executive positions, with notable differences between levels like Senior and Mid-level roles.
+🔹 Employment Type: A comparison of salaries across contract (CT), full-time(FT), freelance(FL), and part-time(PT) roles reveals how pay varies depending on the nature of employment.
+🔹 Geographical Distribution: Using an interactive map, the analysis shows how employee salaries vary by residence, offering insights into salary trends across different regions of the world.
+🔹 Company Size: A pie chart illustrates the average salary distribution across small, medium, and large companies, showcasing how company size influences salary averages.
+
+🔧 Visualizations:
+The dashboard features various visualizations, including maps, bar charts, and pie charts, to make the data easier to interpret. Interactive elements such as year filters allow for dynamic analysis of salary trends over time.
+
+📊 By leveraging Power BI, this project provided valuable insights into employee salary trends and presented the data user-friendly and interactively.
+
+hashtag#powerbi hashtag#Dataanalysis hashtag#cognorise hashtag#datavisualization hashtag#internship hashtag#careerdevelopment hashtag#cognoriseinfotech
